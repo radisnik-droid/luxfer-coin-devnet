@@ -1,27 +1,35 @@
 {
-  "name": "Luxfer Coin",
-  "symbol": "LUX",
-  "description": "Luxfer Coin is a Solana Devnet test token created as the first prototype of the Luxfer Coin project.",
-  "image": "https://raw.githubusercontent.com/radisnik-droid/luxfer-coin-devnet/main/luxfer_coin_logo_transparent.png",
+  "name": "DIVON",
+  "symbol": "DVN",
+  "description": "DIVON (DVN) — Born from the dark. Built for value. 闇より生まれ、価値のために築かれる",
+  "image": "https://raw.githubusercontent.com/radisnik-droid/luxfer-coin-devnet/main/divon_logo_red_final.png",
   "external_url": "https://github.com/radisnik-droid/luxfer-coin-devnet",
   "attributes": [
     {
-      "trait_type": "Network",
-      "value": "Solana Devnet"
+      "trait_type": "Project",
+      "value": "DIVON"
+    },
+    {
+      "trait_type": "Ticker",
+      "value": "DVN"
+    },
+    {
+      "trait_type": "Motto",
+      "value": "Born from the dark. Built for value."
+    },
+    {
+      "trait_type": "Japanese Motto",
+      "value": "闇より生まれ、価値のために築かれる"
     },
     {
       "trait_type": "Token Type",
       "value": "SPL Token"
-    },
-    {
-      "trait_type": "Supply",
-      "value": "1000000000"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/radisnik-droid/luxfer-coin-devnet/main/luxfer_coin_logo_transparent.png",
+        "uri": "https://raw.githubusercontent.com/radisnik-droid/luxfer-coin-devnet/main/divon_logo_red_final.png",
         "type": "image/png"
       }
     ],
